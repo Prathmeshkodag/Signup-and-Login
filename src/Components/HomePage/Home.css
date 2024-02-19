@@ -1,0 +1,38 @@
+/* src/components/LandingPage.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  
+  .carousel-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-image {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 30px;
+    width: 550px;
+    height: 300x;
+  }
+  
+  
+  
+  
